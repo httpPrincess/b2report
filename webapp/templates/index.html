@@ -1,0 +1,70 @@
+{% extends "layout.html" %}
+{% block title %} B2Report {% endblock %}
+{% block content %}
+<div class="container">
+  <div class="jumbotron">
+        {% include 'flash.html' %}
+        <h2>Generator</h2>
+        <div>Generate 10 sentences of minimal length 4 words. Select
+            training set.</div>
+        {% if generator_form %}
+        <form method="post" action=" {{ url_for('generate') }}">
+            <fieldset>
+                {% if generator_form.data_set.errors %}
+                {% for error in generator_form.data_set.errors %}
+                {{ error }}
+                {% endfor %}
+                {% endif %}
+
+                {% for field in generator_form.data_set %}
+                 <div class="checkbox">
+                    <label>
+                        {{ field(type='checkbox') }} {{ field.label }}
+                    </label>
+                </div>
+                {% endfor %}
+            </fieldset>
+            <div class="form-group">
+                    <button class="btn btn-sm btn-primary" type="submit">
+                        Generate&nbsp;<span
+                            class="glyphicon glyphicon-play-circle" aria-hidden="true"></span>
+
+                    </button>
+            </div>
+        </form>
+        {% endif %}
+
+      <div style="margin-top: 60px">
+        <h2>Uploader</h2>
+        <div>Upload new training sets.</div>
+        <form class="" method="post"
+              action="{{ url_for('upload') }}" enctype="multipart/form-data">
+            {{ upload_form.hidden_tag() }}
+             <div
+                    class="form-group {% if upload_form.description.errors %} has-error {% endif %}">
+                <label for="description">Description</label>
+                {{ upload_form.description(class="form-control", id="description") }}
+
+            {% if upload_form.description.errors %}
+                {% for error in upload_form.description.errors %}
+                <p class="text-danger">{{ error }}</p>
+                {% endfor %}
+            {% endif %}
+            </div>
+
+            <div class="form-group {% if upload_form.file.errors %} has-error {% endif %}">
+                <label for="fileInput">File input</label>
+                {{ upload_form.file(class="file", id="fileInput") }}
+                {% if upload_form.file.errors %}
+                    {% for error in upload_form.file.errors %}
+                    <p class="text-danger">{{ error }}</p>
+                    {% endfor %}
+                {% endif %}
+             </div>
+            <button type="submit" class="btn btn-default">Upload</button>
+        </form>
+        </div>
+      </div>
+    </div>
+
+{% endblock %}

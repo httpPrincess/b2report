@@ -1,0 +1,17 @@
+
+{% extends "layout.html" %}
+{% block title %} B2Report {% endblock %}
+{% block content %}
+
+<div class="container">
+    <div class="jumbotron">
+        <h2>Generated output</h2>
+        <ul>
+        {% for item in items %}
+        <li>{{ item }}</li>
+        {% endfor %}
+        </ul>
+        <a href="{{ url_for('index') }}">Back</a>
+    </div>
+</div>
+{% endblock %}

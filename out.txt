@@ -1,0 +1,500 @@
+ Participation in the regular WP Telephone conference.
+ Participation in the regular WP Telephone conference.
+ Participation in the regular EUDAT MPI M DKRZ meeting.
+ Participation in the regular MPI M programmer meeting.
+ Participation in the regular iRods Video conference.
+ iRods meeting in Copenhagen Q amp A Session with Arcot Rajasekar .
+ EUDAT user meeting in Barcelona.
+ Literature study for distributed file systems and federation technologies.
+ Design of possible federation architectures scenarios.
+ Research and technical investigation on benchmarking tools.
+ Version control setup.
+ Preparation ofHard and Software environments for the scalability tests.
+ Research and documentation of Scientific Workflow Management systems.
+ Use case development for ENES.
+ Co operation in the development of standard versioning methodsfor the service providers software development.
+ Co ordination of the EUDAT work on the ENES level CERFACS DKRZ MPI M and the MPG level RZG MPI PL MPI M .
+ Regular reviews of different e g the WP questionnaire.
+ cdo operator testing framework.
+ optimization cdo algorithm improvement.
+ Surveyed and identified relevant research communities in Norway to whom thequestionnaires about archiving should be sent T Toutain N Vazov H Eide R Norby .
+ Participated in review of the list of questions to be included into the questionnairesabout archiving T Toutain N Vazov H Eide R Norby .
+ Planning work for the integration of EUDAT into the national storage infrastructure T Toutain H Eide .
+ status meeting with national EUDAT coordinator and national research storage infrastructure on March T Toutain A Jaunsen .
+ Planing for participation in the iRODS scalability testing of WP We have contactedthe WP leader Shaun de Witt and will setup a test site according to test site requirements.
+and will follow the scalability test plan .
+ Participation in teleconferences for WP T Toutain .
+Organize regular task telcos.
+Participate in WP task leaders telcos.
+Participate in Task telcos.
+Comment EUDAT User Forum WP contribution.
+Participate in the writing of two documents Benchmarking tools and experiments Workflow engines comparison .
+Ensure that hardware is ready for experiments .
+Monitor the progress of partners according to plan .
+Telco and collaboration with US PNNL.
+Review task questionnaire.
+Participate to the Telecon for all involved in WP Jan .
+Participate to the weekly and bi weekly WP Telecons.
+Participate to the Telecon for all involved in WP Mar .
+Participation to the WP Video conferences and .
+Training about long term preservation a video is sent every week on the WP mailing list.
+Pedagogical video and documentation about RDF created by the French national library has been sent to few partners .
+Discussions about long term preservation with TLs or WP partners.
+Test of GOCDB tool.
+WP exchanges with John Alan Kennedy of comments about the first questionnaire on interface and access redaction of a list of complementary questions They were the basis for the second version of the questionnaire .
+questions for communities in connection with long term preservation.
+issues for EUDAT management.
+presentation of few best pratices in long term preservation.
+Participation in the regulard WP WP WP telephone conferences.
+Participation in the regular EUDAT MPI M DKRZ meeting.
+Participation in the regular iRods video conferences.
+Preparation of VMs and storage for and .
+performed first baseline tests within .
+Development of use cases and test scenarios for ENES .
+Integration of the EUDAT work within ENES and DKRZ.
+cdo operator testing framework .
+Attended the WP general teleconferences.
+Participated in the regular teleconferences.
+Requested and obtained virtual machines at computer centers dedicated to the coming experiments.
+providing resources for and conducting scalability tests for WP .
+contribution to WP questionnaire.
+participation in WP TelCos.
+Attended Task Leader telcos.
+WP All VC.
+telcos Reinhard to discuss the plan.
+telco Shaun on the overlap between and .
+telco with Morris Safe Rep TF to discuss evaluation of island integration.
+Contributions to WP community questionnaire.
+Deployment of test server for use within WP testbed.
+Initial evaluations of iRODS Fuse implementation possible use for data caching .
+Attended meeting with iRODS developer Acrot Rajasekar.
+Initial discussion of scope and goals of WP .
+Attended EGI Community Forum in Munich Sessions highlighting data management .
+Review of and comments on questionnaire for .
+Preparation of framework for baseline test environment for .
+Attendance to st User Forum in Barcelona.
+Participation in WP teleconferences.
+Participation in EUDAT iRODS videoconferences.
+Conducted st round of scalability tests in .
+Developing CASTOR Driver for IRODS.
+Meetings coordination WP whole group meetings January amp March task leaders regular catch ups amp task meeting plus initial discussion with PNNL US wrt work flow technologies.
+Test scripting execution.
+Setting up test hardware.
+Set up amp installed test h w amp s w for scalable archivefederationtests.
+Involvementin metadata and simple store service cases.
+EUDAT Presentation at EGI conference.
+Attendance and presentation at Munich.
+Attended SAF meeting amp talk at User Group Forum.
+Completed the development of the security plugin to AHE by adding Shibboleth support .
+Tested the new extension.
+Attended SAF meeting.
+iRods tests execution on phisical node.
+xrootd tests ongoing on phisical node.
+start work on xrootd federation test.
+attend the rd EUDAT Technical Meeting.
+attend the teleconferences.
+Finished MS milestone.
+EUDAT Technical Meeting with WP WP and WP .
+EUDAT User Forum presentation.
+Organize Task teleconferences.
+Attend Task Leaders teleconferences.
+Work on the Workflow Engine link to iRODS.
+Begin working on MS .
+attended and presented the WP projects at the rd EUDAT Technical Forum the nd EUDAT user forum and the EGI Community Forum .
+presented the current WP status at the rd EUDAT technical forum.
+represented EUDAT at the EGI CF for the DCH RP workshop.
+presented EUDAT and the use of iRODS at the EGI CF to the grid data management community.
+submitted the deliverable D .
+started work on the web based rd party transfer service.
+Task Deliverable short redaction corrections.
+Task Deliverable independant internal review.
+Participation in Technical Meeting Bologna and UF London .
+Participation in Telco .
+iRODs scalability tests federation tests and.
+Presentation Results of WP scalability tests .
+Participated in WP teleconferences.
+Participated at iRODS Users Group Meeting in Garching and create and edit issues and question list.
+Coordinated WP task until end of Jan .
+Participated in rd Technical Meeting in Bologne .
+report ENES benchmark tests of work flow engines .
+Coordination with other ENES partners in WP .
+Input for deliverable D .
+Researched the iRODS virtualization objects for workflows.
+Began writing the WP milestone.
+Attended the EUDAT Conference in Bologna on the th of February.
+participation wp telcos.
+Installed new server virtual and physic for test.
+Installed Xrootd server on test servers on debian .
+Performed scalability test for xrootd on local servers and remote with CINECA .
+Collected Xrootd documentation.
+provision of resources for and taking part in iRODS scalability tests.
+implementation and documentation of the WP prototype In Storage Processing .
+presentation of WP prototype In Storage Processing at Technical Meeting.
+contribution to WP paper for EGI Community Forum.
+discussion of new service cases.
+partcipate in and Telcos.
+business trip to Dresden Technical University TU of Dresden Network solutions for climate research with Andy Georgy from TU Dresden and Rolf Sperber from Alcatel Lucent.
+Architecture Design Session in Hamburg with Ralf EInhorn from the company Tixel and Rolf Sperber from Alcatel Lucent for Network Design.
+Yvonne K stermann took over task leader ship in .
+ proposed alternative workflow architecture without webservice using batch processing or just plain ssh.
+ New Service Case evaluated it meets our community s needs.
+work on reporting TIXEL technology to WP not finnished .
+JRE request to evaluated and accepted.
+started achitecture design collaboration.
+started on testing xrootd in .
+programming tasks for our community tool cdo.
+discussion about Hadoop solution from JSC in for the New Service Case in .
+started interviewing climate scientists about there access behavior to CMIP data and their needs for an IDE workflow system .
+reorganized s documentation.
+Attended WP TaskLeader meetings.
+Organized WP meetings.
+Management of the WP task.
+Writing the D deliverable.
+Attended iRODS workshop gathered questions and issues from EUDAT for iRODS developers results posted on confluence wiki .
+Review of WP deliverable D .
+Prepared performance monitoring results tests for Bologne meeting .
+Participated in WP teleconferences.
+Participated in preparations of questions and issues for iRODS Users Group Meeting in Garching.
+Coordinated WP task since Feb .
+Collected HTTP based federation documentation.
+Installed HTTP based federation in PSNC.
+Participated in WP teleconferences.
+Prepared presentation for Bologne meeting.
+Participated in WP teleconferences.
+Prepared presentation for Bologne meeting.
+Contributed to presentations on User Forum and EGI Community Forum.
+Contributed to D deliverable.
+Reviewed D deliverable.
+Participated in rd Technical Meeting in Bologne .
+Participation to the rd EUDAT technical meeting Bologna Feb .
+Discussions about reorganising our efforts from WP to WP .
+Started work on installing xrootd service for testing.
+Attaended meetings for all tasks and team leads meetings.
+Working on setting up replacement test bed underway.
+Meeting organisation and chairing.
+Organised attendance at UF.
+Organize and animate teleconferences.
+Precise the workplan.
+Initiate document on workflows interoperability technologies with integration of major engines.
+Initiate document on workflows repositories.
+Close collaboration with FP IS ENES project CNRS IPSL France KNMI NL DKRZ Germany CINES France .
+Implementation design with technology choices .
+Preparation of SAF Meeting contribution.
+Work on format data policy.
+Attend workflow working group meetings.
+Active participation in the Workflow Working Group.
+Contributed to the workflow JRA.
+Further GEF development.
+Prepared presentation Federating Grid and Cloud storage in EUDAT for ISGC in Taipei.
+Performed additional test for Taipei presentation iRODS OpenStack Swift and iRODS Ceph.
+Prepared full paper for Taipei.
+Scalability tests of federation software for data replication .
+Lead and coordinate WP Task .
+Organize teleconference each two weeks for Task .
+Participate in WP Task leaders periodic teleconferences.
+Prepare present and attend at the WP Stockholm Face to Face Meeting mid June.
+Extract EPOS community scalability requirements from Toulouse meeting in preparation of Stockholm meeting .
+Produced a script to test the limits of real time synchronization.
+Partecipate to WP meeting during the nd EUDAT technical meeting in Stockholm .
+Participation to the nd technical meeting in Stockholm .
+WP teleconference .
+Participation to the nd General Council in Hamburg .
+setup configuration and operation of infrastructure for and .
+development of test scripts.
+installation of data management software.
+participation in various telcos.
+participation in WP f f meeting.
+Attended the EUDAT Council Meeting in Hamburg.
+Attended the WP technical meeting in Stockholm.
+Participated in the regular teleconferences.
+Performed software installations on the dedicated virtual machines workflow engines servlet containers web services.
+Developement work on benchmarking scripts for web services and workflow engines.
+prepared jointly with CINECA a document containing the detail of EPOS and the manner it is envisaged the data federation.
+occasional participation to the weekly and bi weekly telcon conferences.
+contribution to define the EPOS community scalability requirements.
+providing resources for and conducting scalability tests for WP .
+participation in WP F F meeting.
+participation in WP TelCos.
+Attended taskleader meetings.
+WP meeting with Martin Hellmich provided input on CLARIN.
+Updating the plan and starting to plan the first VC meeting.
+Discussion with Safe Replication morris riedel .
+Discussion with Shaun de Witt on re use of test framework.
+Contribution towards scalability tests.
+Attended Stockholm meeting.
+Development of Intent Statement Templates for WP sub tasks.
+Intent statement for iRODS Caching evaluation in WP .
+Intent statement for Parrot evaluation in WP .
+Started evaluation of Caching possibilities for iRODS.
+Contribution to scalability tests.
+Run the scalability tests on GPFS and GFPS through NFS.
+Installed iRODS and run the iRODS test.
+Prepared Intent Statement for Open Source Cloud Storage in WP .
+Performed scalability evaluation of OpenStack Swift for WP purposes.
+Attended Stockholm meeting.
+Attended WP telcos.
+Preparation for participation in the iRODS scalability testing of WP We have set up a test site according to test site requirements and will follow the scalability test plan Completed iRODS server set up and established EUDAT storage area Performed thorough tests of setup and confirmed working T Toutain H Eide R Nordby .
+Assimilation of iRODS documentation and competence building plus discussions on lists T Toutain H Eide .
+Started work for the integration of EUDAT into the national storage infrastructure T Toutain H Eide Included EUDAT provisions in RFP for new storage infrastructure RFP out for acquisition of infrastructure for implementing EUDAT services T Toutain H Eide A Jaunsen .
+Participated in WP all Second Eudat technical meeting WP face to face meeting .
+Participated in EUDAT s training session on the Building Blocks of Data Infrastructures T Toutain .
+Participation in teleconferences and list discussions for WP T Toutain .
+Completed baseline scalability tests.
+Started scalbility testing of iRODS.
+Added additional tests to do federation testing across sites.
+Assisted with Questionnaire.
+Assisted in Wp discussions.
+Organised WP telecon May th .
+Organised WP f f meeting Stockholm June th.
+NOTE From April all the PMs of SIGMA have been moved from WP into WP Data Policy Manager TF Nevertheless the actual change will be effectively formalized from July We will therefore report here and in WP what we have done for the Data Policy Manager Activity .
+Sketch of Generic Execution Framework GEF .
+Coordination with WP about MapReduce integration into the GEF.
+First version of GEF API description.
+finished and submitted Deliverable D .
+presented WP projects at the EGI Community Forum.
+presented EUDAT to DCH at the EGI Community Forum.
+implementing fts based safe replication debugging and testing is going on.
+presented WP projects irods openstack fts SR and storage based processing at the th SAF.
+involved in organising the collaboration between WP storage based processing and WP workflows.
+organised bi weekly WP teleconferences.
+organised workshop to develop a scalable federated architecture done in WP at CERN.
+participated in the development of the scalable architecture.
+Attended the Teleconferences.
+Participate to tests on xrootd.
+Attended in the WP teleconferences and discussions.
+Attended the Rome SAF and General Council meetings.
+Participated in the creation of the General Execution Framework design document.
+scalability test done.
+federation in progress.
+install on rehl on debian not works .
+install webdav on irods istance.
+federation in progress.
+attended telecon wp .
+Generic Execution Framework GEF Intense exchange and collaboration on the GEF paper about ready to be published.
+Contribution to the Scalable Architecture in .
+Review of HTTP API in .
+Business trip to Dresden Germany.
+ISC International Super Computing in Leipzig present SoDeNet and G.
+xrootd installation on two machines at the DKRZ.
+Evaluation of the Hadoop Pigs approach for the cdos.
+iRODS installation on four clusters in total servers.
+Tests of the rsync Protocol on fast network.
+Workflow collaboration university of Edingborough Vistrails.
+ESGF API evaluation documentation.
+interviews of climate scientists about data access.
+some iRODS internals.
+contributed to the SimpleStore TF.
+f f meeting meta data TF in Hamburg Germany.
+Participating in the WP TL meetings.
+Managing the WP task.
+Participating in the WP task.
+EiRODS deployment and evaluation of composable resources as a possible iRODS caching solution .
+Review of D .
+Discussion about WP WP joint work on hadoop within the Generic Execution Framework .
+Participated in WP teleconferences.
+Performed HTTP based federation testing in PSNC.
+Performed reference tests on iRODS federation.
+Participated in the discussion of scalable architecture telcos two f f meetings at CERN .
+Drafted the scalable architecture proposal.
+Discussed of HTTP federation architecture scalability with solution authors at CERN.
+Participation to WP teleconferences.
+Data Policy Manager Task Forse leadership .
+Writing the TF work plan.
+Organizing telconf Meetings.
+Initiating and maintaining the TF wiki page.
+Attending the Service Case Task Forces Management meetings.
+Attending the SAF meeting in Rome June .
+Data Policy Manager User Interface implementation.
+Setting up and configuring the virtual machines.
+Start the design of the UI.
+Deployment of the SR in OSLO.
+Getting the prefix and installing the EPIC client and IRODS server.
+Installing the SR set up.
+Federating OSLO with MPI and CINECA.
+We continued to refine and adapt the data access proposals for WP so that they can be approved by CERN and David Corney STFC as work package leader for WP .
+Contribution to Scalability tests iRODS scaling tests and Federation test with UIO and STFC .
+Completion of intent statement for iRODS caching and Simple Data Access projects.
+Task leader organize work and hold periodical teleconferences.
+Participate in WP task leader telco.
+Benchmarking of ENES Web Services and Use Cases workflows.
+started bi weekly telecon for progress monitoring and discussion.
+agreed on the goals of WP WP Data Access will consist out of mainly independent projects researching particular aspects of data access The projects cover the fields Cloud Protocol Data Placement Caching and Data Center Computing .
+initiated a proposal process for all projects in .
+created project proposals and assisted others.
+put up a first draft of the structure for the deliverable D .
+We are also preparing our contribution to the st EUDAT conference on the October in form of a poster and part of a newsletter article .
+WP Kick off meeting.
+Participate in teleconferences.
+contributing to EUDAT deliverable D .
+WP interviews CLARIN Data Seal of Approval analyzed core communities new communities .
+Starting of evaluating current policy state of the art EUDAT communities core communities new communities .
+Creating of an inventory of complex rule specifications required for EUDAT purposes.
+provided and maintained resources for and .
+participated in various WP meetings.
+provided feedback for proposals.
+iRODs performance tests baseline tests started federation tests setup federated islands transfer by i protocols iput .
+evaluation and analysis of results.
+xroot initial installation documentation and recherche.
+recherche about other tools.
+Experimentation and Benchmarking.
+input for milestones.
+attended the periodical WP teleconferences.
+attended the WP all hands meeting in September.
+worked on benchmarking selected workflow engines for our use cases.
+participated in the writing of the milestone document.
+providing resources for and conducting scalability tests for WP .
+writing work intents for WP and initial implementation work.
+contributing to EUDAT deliverable D .
+contributing to EUDAT newsletter article.
+preparing brainstorming material for WP selection criteria.
+preparing wiki page for WP subprojects.
+participation in TelCos.
+participating in the TL and All WP telecons.
+managing task .
+contributing to the deliverable.
+Contributions to WP Deliverable.
+Evaluation of proposed projects for WP .
+Planning for WP contribution to st EUDAT conf .
+Participation to WP WP WP WP WP teleconferences.
+Collecting data preservation policies from IN P report for WP .
+Scalability testing with iRODS on NFS GPFS and iRODS on pure GPFS.
+Preparation of input to deliverable.
+Preparation of PSNC s instance of iRODS for federation testing purposes.
+Preparation of Intent Statements for WP projects.
+Review of Intent Statements for other WP projects.
+Cloud Storage evaluation and initial scalability testing.
+Participation in the WP teleconferences.
+WP iRODS tests Federation tests with STFC and RZG .
+discussions with local communities bioinformatics about using data caching in iRODS to improve data sharing amongst users .
+Wp study the possibility to set up a small Hadoop local cluster to test the parsing of large logfiles efficiently .
+Work package management.
+Continued Scalability testing including testing of xrootd.
+Started testing os wide area scalability of IRODS.
+Attend to WP meetings.
+Participate to HTTP federetion test.
+Participate to tests of WebDavis interface for iRODS.
+Contribute to the configuration of INGV http server for tests.
+Organize and lead Task teleconferences.
+Write and organize the D deliverable.
+Continue the design of GEF.
+Develop a demo of a GEF implementation in an ENES data node located at CINES.
+implemented a replication mechanism with iRODS using FTS for transfers.
+built a prototype for x credential delegation in iRODS.
+built a first prototype of a web interface for FTS managed transfers.
+implemented a prototype of the data staging script to manage transfers with FTS .
+Development of demo environment for ENES workflow.
+Participated in the Barcelona workflows workshop.
+Attended the Teleconferences.
+Participate to tests on HTTP dynamic federation.
+creating abstract models of data management policies for WP .
+writing a paper about WP project.
+Work on the GEF.
+Preparation of the Rome nd Conference and the SAF meeting.
+Journey to the Theoretical Day of the Community for Informatics GI in Ilmenau Germany.
+Setup of local and DKRZ testbed for xrootd accessible from outside.
+Tested xroot testbed at the STFC.
+Tested Metadata Service from the DKRZ.
+ Tb Network Project with external partners.
+Software Defined Network Architecture continued providing the project with the requirements of ENES.
+Deliverable in WP .
+Scalable architecture continued.
+Comparison of the REST APIs in Task and .
+Continued evaluation of possible caching methods in iRODS.
+participation two meeting contributing with some ideas.
+Participated in WP teleconferences.
+Performed further HTTP based federation testing in PSNC.
+Continued reference test on iRODS federation.
+Installed integrated testbed of HTTP based federation and iRODS.
+Performed scalability analysis of iRODS.
+Analysed scalability evaluation results acquired for iRODS and HTTP based federation.
+Developed a scalable architecture proposal.
+Participated into discussion on the scalable architecture teleconferences f f meetings .
+Preparing formal description on format conversion policy.
+technical discussions on format conversion policy.
+Participation to WP teleconferences.
+updating work intents for WP .
+Continue workflow engine benchmarking for ENES.
+Organize teleconferences for task .
+Writing benchmarking report.
+Develop the idea of linking iRODS to workflow execution.
+Organize upcoming technical meeting task participation.
+Started on writing the deliverable D .
+DPM S project is finished except for the documentary report.
+WP has been informed about the ongoing projects.
+The iRods OpenStack integration has made good progress and we have first performance results.
+Discussions about the web based rd party transfer system based on FTS have lead to acceptance by WP and suggestions to link FTS to the XSEDE file manager as well.
+A prototype of the storage based processing is done and a first scientific use case is being implemented.
+ Association of main LTP risks and LTP policies This synthetic work has been initiated with EUDAT communities but the draft is available for any type of data producer .
+ Creation of a LTP policy description document for the EUDAT communities .
+ Identification of gaps between interviews done by WP and elements required fromEUDAT Communities to select data management policies .
+Continued work on benchmarking workflow engines and webservices with ENES use cases writing ENES benchmark report part of WP .
+Continued work on iRODS scalability tests in the DKRZ JSC PSNC island part of WP evaluation of results .
+Provided input to EUDAT review.
+Attended st EUDAT conference in Barcelona.
+Researched the existing iRODS interfaces with various workflow engines.
+Prepared the EKUT plan for the upcoming deliverable.
+participated to some WP telcons.
+providing resources for and running iRODS scalability tests for WP .
+implementing and documenting In storage Processing WP intent .
+contributing to WP poster.
+updating WP policy selection criteria.
+participating in EUDAT Conference.
+participation in TelCos.
+Contributions to the ENES Use Case.
+Joint work on leading the WP with CERFACS.
+Attend WP TL meetings.
+Organize WP .
+Work in on policy descriptions policy selection criteria reviewing documents.
+Attended Barcelona conference.
+Continued work on iRODS transfer tests in the STFC UiO RZG island part of WP .
+Contribution to WP poster for st EUDAT conference in Barcelona .
+Attended st EUDAT conference in Barcelona .
+Participation to WP WP WP and WP teleconferences.
+ Performing iRODS federation scalability test along with JSC and DKRZ.
+ Providing analysis and graphs for iRODS scalability tests results.
+ Preparation of input to deliverable.
+ Update to data preservation policies from IN P report for WP .
+ Performing OpenStack Swift based storage scalability tests and analysis.
+ Analysing scalability of iRODS S and S OpenStack Swift interface.
+ Contributing to WP poster for st EUDAT Conference.
+WP continued testing of federation between RZG STFC UIO .
+WP continued work on data caching with iRODS developed for a portal of a bioinformatcis community in Norway .
+Performed scalability testing of iRODS in a federated environment.
+Provided resources for the testing of scalability of various technologies.
+Participated in telephone conferences.
+Implementation of an ENES GEF Use Case at CINES along with a demo production.
+Organization and chairing of a Workflows Working Group scoping meeting at the EUDAT Workshop Days in September.
+Organization and chairing of a Workflows session at the nd EUDAT Conference.
+Participated at the EUDAT General Council.
+provided content to and assisted in completion of the WP deliverable D .
+assisted WP in performing tests on the http dynamic federations.
+started work on the Web frontend for FTS .
+contributed to the HTTP API task force.
+attended the second EUDAT conference in Rome.
+perform tests on the http dynamic federation.
+attend the teleconferences.
+Participation to data policy definition.
+Participated in the Rome meeting.
+performing tests on the http dynamic federations.
+attended and Contributing the second EUDAT conference in Rome.
+attended the teleconferences.
+Writing a paper to summarize data processing project paper accepted amp presented at IEEE Big Data Conference .
+Discussing the Common Service Layer API.
+Modeling data management policies.
+Participating at telcos.
+published Paper at the Infocomp .
+Presentations of SoDeNet in Lisbon.
+Network project SoDeNet continued.
+Network project tbps continued.
+xrootd testbed for .
+D in WP .
+WAN tests of iRODS Fuse client as part of iRODS Caching project.
+Review of Deliverable .
+Participated in WP teleconferences.
+Participated in the discussion on the scalable architecture design.
+Updated the deliverable according to internal review comments.
+Participated in WP teleconferences.
+Setup iRODS OpenStack Swift pilot in PSNC.
+Technical discussions on format conversion policies and integration checking policies.
+Preparing environment for implementation of checksum generation policy.
+Participation to WP teleconferences.
