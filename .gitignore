@@ -52,3 +52,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# local database
+webapp/data/*.db
+
+# PyCharm
+.idea/
+
