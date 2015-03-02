@@ -5,9 +5,8 @@
   <div class="jumbotron">
         {% include 'flash.html' %}
         <h2>Generator</h2>
-        <div>Generate 10 sentences of minimal length 4 words. Select
-            training set.</div>
         {% if generator_form %}
+        <div>Generate 10 sentences of minimal length 4 words. Select training set.</div>
         <form method="post" action=" {{ url_for('generate') }}">
             <fieldset>
                 {% if generator_form.data_set.errors %}
@@ -32,7 +31,10 @@
                     </button>
             </div>
         </form>
+        {% else }
+        <div>Upload traing set first</div>
         {% endif %}
+  
 
       <div style="margin-top: 60px">
         <h2>Uploader</h2>
